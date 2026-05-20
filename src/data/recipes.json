@@ -1,0 +1,346 @@
+[
+  {
+    "id": "chicken-tikka-masala",
+    "title": "Chicken Tikka Masala",
+    "description": "A creamy, spiced curry with tender chicken pieces in a rich tomato-based sauce. This classic Indian-British fusion dish is comfort food at its finest.",
+    "heroImage": "https://placehold.co/1200x600/f97316/ffffff?text=Chicken+Tikka+Masala",
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "difficulty": "medium",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "1 cup plain yogurt",
+      "2 tbsp garam masala",
+      "1 tbsp cumin",
+      "1 tbsp paprika",
+      "1 can (400g) crushed tomatoes",
+      "1 cup heavy cream",
+      "1 large onion, diced",
+      "4 cloves garlic, minced",
+      "1 inch ginger, grated",
+      "2 tbsp vegetable oil",
+      "Salt and pepper to taste",
+      "Fresh cilantro for garnish"
+    ],
+    "steps": {
+      "1": {
+        "title": "Marinate the Chicken",
+        "description": "In a large bowl, combine yogurt, half the garam masala, cumin, and paprika. Add the chicken cubes and mix well to coat. Cover and refrigerate for at least 30 minutes, or overnight for best results.",
+        "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Step+1",
+        "duration": 5,
+        "tips": ["Longer marination results in more tender and flavorful chicken", "You can use chicken thighs for extra juiciness"]
+      },
+      "2": {
+        "title": "Cook the Chicken",
+        "description": "Heat 1 tablespoon of oil in a large pan over medium-high heat. Remove chicken from marinade and cook in batches until golden brown on all sides, about 5-7 minutes. Set aside.",
+        "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Step+2",
+        "duration": 7,
+        "tips": ["Don't overcrowd the pan to get proper browning"]
+      },
+      "3": {
+        "title": "Prepare the Sauce Base",
+        "description": "In the same pan, add remaining oil. Sauté onions until soft and golden, about 5 minutes. Add garlic and ginger, cook for another minute until fragrant.",
+        "thumbnail": null,
+        "duration": 6,
+        "tips": []
+      },
+      "4": {
+        "title": "Build the Curry",
+        "description": "Add the remaining garam masala to the pan and stir for 30 seconds. Pour in the crushed tomatoes and simmer for 10 minutes, stirring occasionally.",
+        "thumbnail": "https://placehold.co/400x300/dc2626/ffffff?text=Step+4",
+        "duration": 12,
+        "tips": ["Taste and adjust spices as needed"]
+      },
+      "5": {
+        "title": "Finish and Serve",
+        "description": "Stir in the heavy cream and return the chicken to the pan. Simmer for 10 more minutes until the chicken is cooked through and the sauce has thickened. Garnish with fresh cilantro and serve with basmati rice or naan bread.",
+        "thumbnail": "https://placehold.co/400x300/ea580c/ffffff?text=Step+5",
+        "duration": 10,
+        "tips": ["Let it rest for 5 minutes before serving for best flavor"]
+      }
+    },
+    "tools": [
+      "Large skillet or pan",
+      "Mixing bowl",
+      "Wooden spoon",
+      "Cutting board",
+      "Chef's knife"
+    ],
+    "tags": ["chicken", "indian", "curry", "dinner", "30-60-minutes", "comfort-food"]
+  },
+  {
+    "id": "classic-carbonara",
+    "title": "Classic Carbonara",
+    "description": "An authentic Italian pasta dish with a silky egg and cheese sauce, crispy guanciale, and freshly cracked black pepper. Simple ingredients, extraordinary taste.",
+    "heroImage": "https://placehold.co/1200x600/fbbf24/ffffff?text=Classic+Carbonara",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "difficulty": "medium",
+    "ingredients": [
+      "400g spaghetti",
+      "200g guanciale or pancetta, cubed",
+      "4 large egg yolks",
+      "2 whole eggs",
+      "100g Pecorino Romano, finely grated",
+      "50g Parmigiano-Reggiano, finely grated",
+      "Freshly ground black pepper",
+      "Salt for pasta water"
+    ],
+    "steps": {
+      "1": {
+        "title": "Prepare the Egg Mixture",
+        "description": "In a bowl, whisk together egg yolks, whole eggs, and most of the grated cheeses (save some for garnish). Season generously with black pepper.",
+        "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Egg+Mix",
+        "duration": 5,
+        "tips": ["Room temperature eggs mix better", "Use freshly grated cheese for best results"]
+      },
+      "2": {
+        "title": "Cook the Guanciale",
+        "description": "Place guanciale in a cold pan and cook over medium heat until the fat renders and the meat becomes crispy, about 8-10 minutes. Remove from heat.",
+        "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Crispy+Meat",
+        "duration": 10,
+        "tips": ["Starting with a cold pan helps render the fat slowly"]
+      },
+      "3": {
+        "title": "Cook the Pasta",
+        "description": "Bring a large pot of heavily salted water to boil. Cook spaghetti until al dente, about 1 minute less than package directions. Reserve 1 cup of pasta water before draining.",
+        "thumbnail": null,
+        "duration": 10,
+        "tips": ["The pasta water is crucial for the sauce"]
+      },
+      "4": {
+        "title": "Combine Everything",
+        "description": "Add hot pasta to the pan with guanciale (off heat). Quickly pour in the egg mixture and toss vigorously, adding pasta water as needed to create a creamy sauce. The residual heat will cook the eggs gently.",
+        "thumbnail": "https://placehold.co/400x300/eab308/ffffff?text=Toss+Pasta",
+        "duration": 3,
+        "tips": ["Keep tossing to prevent scrambled eggs", "Work quickly while pasta is hot"]
+      },
+      "5": {
+        "title": "Serve Immediately",
+        "description": "Plate immediately and top with remaining cheese and a generous amount of freshly cracked black pepper.",
+        "thumbnail": null,
+        "duration": 2,
+        "tips": ["Carbonara waits for no one - serve right away!"]
+      }
+    },
+    "tools": [
+      "Large pot for pasta",
+      "Large skillet",
+      "Mixing bowl",
+      "Whisk",
+      "Tongs",
+      "Cheese grater"
+    ],
+    "tags": ["pasta", "italian", "dinner", "eggs", "under-30-minutes", "classic"]
+  },
+  {
+    "id": "thai-green-curry",
+    "title": "Thai Green Curry",
+    "description": "A fragrant and vibrant Thai curry with coconut milk, fresh vegetables, and aromatic green curry paste. Perfectly balanced with sweet, salty, and spicy flavors.",
+    "heroImage": "https://placehold.co/1200x600/22c55e/ffffff?text=Thai+Green+Curry",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "ingredients": [
+      "400ml coconut milk",
+      "3 tbsp green curry paste",
+      "500g chicken breast, sliced",
+      "1 cup Thai eggplant, quartered",
+      "1 red bell pepper, sliced",
+      "1 cup bamboo shoots",
+      "2 tbsp fish sauce",
+      "1 tbsp palm sugar or brown sugar",
+      "Thai basil leaves",
+      "2 kaffir lime leaves",
+      "1 red chili, sliced",
+      "Vegetable oil"
+    ],
+    "steps": {
+      "1": {
+        "title": "Bloom the Curry Paste",
+        "description": "Heat oil in a wok over medium-high heat. Add the thick cream from the top of the coconut milk and the curry paste. Fry until fragrant and the oil separates, about 2-3 minutes.",
+        "thumbnail": "https://placehold.co/400x300/16a34a/ffffff?text=Curry+Paste",
+        "duration": 3,
+        "tips": ["Frying the paste releases its aromatics"]
+      },
+      "2": {
+        "title": "Cook the Chicken",
+        "description": "Add the sliced chicken to the wok and stir-fry until the outside is no longer pink, about 3-4 minutes.",
+        "thumbnail": "https://placehold.co/400x300/22c55e/ffffff?text=Cook+Chicken",
+        "duration": 4,
+        "tips": ["Cut chicken into even pieces for uniform cooking"]
+      },
+      "3": {
+        "title": "Add Coconut Milk and Vegetables",
+        "description": "Pour in the remaining coconut milk and bring to a simmer. Add eggplant, bell pepper, bamboo shoots, and kaffir lime leaves. Cook for 10 minutes.",
+        "thumbnail": "https://placehold.co/400x300/4ade80/ffffff?text=Add+Veggies",
+        "duration": 10,
+        "tips": ["Don't boil vigorously or the coconut milk may split"]
+      },
+      "4": {
+        "title": "Season and Finish",
+        "description": "Add fish sauce and palm sugar, adjusting to taste. The curry should be a balance of salty, sweet, and spicy. Remove from heat and stir in Thai basil leaves.",
+        "thumbnail": null,
+        "duration": 3,
+        "tips": ["Taste and adjust - Thai cooking is all about balance"]
+      },
+      "5": {
+        "title": "Serve",
+        "description": "Ladle the curry into bowls and garnish with sliced red chili and extra Thai basil. Serve with steamed jasmine rice.",
+        "thumbnail": "https://placehold.co/400x300/15803d/ffffff?text=Serve+Hot",
+        "duration": 2,
+        "tips": ["Jasmine rice is traditional and absorbs the sauce beautifully"]
+      }
+    },
+    "tools": [
+      "Wok or large pan",
+      "Wooden spatula",
+      "Cutting board",
+      "Chef's knife"
+    ],
+    "tags": ["thai", "curry", "chicken", "dinner", "30-60-minutes", "spicy", "asian"]
+  },
+  {
+    "id": "fluffy-pancakes",
+    "title": "Fluffy Buttermilk Pancakes",
+    "description": "Light, fluffy, and perfectly golden pancakes made with buttermilk for extra tenderness. A classic breakfast that never disappoints.",
+    "heroImage": "https://placehold.co/1200x600/a78bfa/ffffff?text=Fluffy+Pancakes",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "2 tbsp sugar",
+      "2 tsp baking powder",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "2 cups buttermilk",
+      "2 large eggs",
+      "1/4 cup melted butter",
+      "1 tsp vanilla extract",
+      "Butter for cooking",
+      "Maple syrup for serving"
+    ],
+    "steps": {
+      "1": {
+        "title": "Mix Dry Ingredients",
+        "description": "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt until well combined.",
+        "thumbnail": null,
+        "duration": 2,
+        "tips": ["Sifting the flour makes even fluffier pancakes"]
+      },
+      "2": {
+        "title": "Mix Wet Ingredients",
+        "description": "In another bowl, whisk together buttermilk, eggs, melted butter, and vanilla extract until smooth.",
+        "thumbnail": "https://placehold.co/400x300/c4b5fd/ffffff?text=Wet+Mix",
+        "duration": 2,
+        "tips": ["Make sure butter has cooled slightly before adding"]
+      },
+      "3": {
+        "title": "Combine the Batter",
+        "description": "Pour the wet ingredients into the dry ingredients and stir gently until just combined. Some lumps are okay - don't overmix!",
+        "thumbnail": "https://placehold.co/400x300/a78bfa/ffffff?text=Batter",
+        "duration": 2,
+        "tips": ["Overmixing develops gluten and makes pancakes tough"]
+      },
+      "4": {
+        "title": "Cook the Pancakes",
+        "description": "Heat a griddle or non-stick pan over medium heat and add a small pat of butter. Pour 1/4 cup of batter per pancake. Cook until bubbles form on the surface and edges look set, then flip and cook for another 1-2 minutes.",
+        "thumbnail": "https://placehold.co/400x300/8b5cf6/ffffff?text=Cook",
+        "duration": 15,
+        "tips": ["Wait for the bubbles before flipping", "First pancake is always a test - adjust heat as needed"]
+      },
+      "5": {
+        "title": "Serve Warm",
+        "description": "Stack pancakes on plates and serve immediately with butter and warm maple syrup. Add fresh berries if desired.",
+        "thumbnail": "https://placehold.co/400x300/7c3aed/ffffff?text=Serve",
+        "duration": 2,
+        "tips": ["Keep cooked pancakes warm in a 200°F oven while making the rest"]
+      }
+    },
+    "tools": [
+      "Large mixing bowl",
+      "Medium mixing bowl",
+      "Whisk",
+      "Griddle or non-stick pan",
+      "Spatula",
+      "Measuring cups"
+    ],
+    "tags": ["breakfast", "pancakes", "american", "under-30-minutes", "vegetarian", "classic"]
+  },
+  {
+    "id": "beef-tacos",
+    "title": "Authentic Beef Tacos",
+    "description": "Seasoned ground beef with warm spices, served in corn tortillas with fresh toppings. Perfect for a quick weeknight dinner or taco Tuesday!",
+    "heroImage": "https://placehold.co/1200x600/ef4444/ffffff?text=Beef+Tacos",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "ingredients": [
+      "500g ground beef",
+      "1 small onion, diced",
+      "3 cloves garlic, minced",
+      "2 tbsp chili powder",
+      "1 tsp cumin",
+      "1 tsp paprika",
+      "1/2 tsp oregano",
+      "1/4 cup water",
+      "8 corn tortillas",
+      "1 cup shredded lettuce",
+      "1 cup diced tomatoes",
+      "1/2 cup shredded cheese",
+      "1/4 cup sour cream",
+      "Fresh cilantro",
+      "Lime wedges"
+    ],
+    "steps": {
+      "1": {
+        "title": "Cook the Aromatics",
+        "description": "Heat a large skillet over medium-high heat. Add the ground beef and cook, breaking it up with a wooden spoon. When almost cooked through, add onion and garlic. Cook until onion is softened.",
+        "thumbnail": "https://placehold.co/400x300/dc2626/ffffff?text=Cook+Beef",
+        "duration": 8,
+        "tips": ["Drain excess fat if desired for a leaner taco"]
+      },
+      "2": {
+        "title": "Add the Spices",
+        "description": "Add chili powder, cumin, paprika, and oregano to the beef. Stir well to coat the meat evenly with the spices. Cook for 1 minute until fragrant.",
+        "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Add+Spices",
+        "duration": 2,
+        "tips": ["Toasting the spices in fat releases more flavor"]
+      },
+      "3": {
+        "title": "Simmer",
+        "description": "Add water to the pan and stir. Let it simmer for 5 minutes until the liquid reduces and the meat is well coated with a saucy consistency.",
+        "thumbnail": null,
+        "duration": 5,
+        "tips": ["Add more water if the mixture gets too dry"]
+      },
+      "4": {
+        "title": "Warm the Tortillas",
+        "description": "Heat tortillas directly over a gas flame for 15-20 seconds per side, or in a dry skillet until pliable and slightly charred.",
+        "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Warm+Tortillas",
+        "duration": 3,
+        "tips": ["Keep warmed tortillas wrapped in a towel to stay soft"]
+      },
+      "5": {
+        "title": "Assemble and Serve",
+        "description": "Spoon beef mixture into warmed tortillas. Top with lettuce, tomatoes, cheese, sour cream, and cilantro. Serve with lime wedges on the side.",
+        "thumbnail": "https://placehold.co/400x300/ef4444/ffffff?text=Assemble",
+        "duration": 5,
+        "tips": ["Set up a taco bar and let everyone build their own!"]
+      }
+    },
+    "tools": [
+      "Large skillet",
+      "Wooden spoon",
+      "Cutting board",
+      "Chef's knife"
+    ],
+    "tags": ["mexican", "beef", "tacos", "dinner", "under-30-minutes", "quick", "family-friendly"]
+  }
+]
