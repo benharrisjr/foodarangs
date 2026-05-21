@@ -1,0 +1,71 @@
+{
+  "id": "beef-tacos",
+  "title": "Authentic Beef Tacos",
+  "description": "Seasoned ground beef with warm spices, served in corn tortillas with fresh toppings. Perfect for a quick weeknight dinner or taco Tuesday!",
+  "heroImage": "https://placehold.co/1200x600/ef4444/ffffff?text=Beef+Tacos",
+  "prepTime": 15,
+  "cookTime": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "ingredients": [
+    "500g ground beef",
+    "1 small onion, diced",
+    "3 cloves garlic, minced",
+    "2 tbsp chili powder",
+    "1 tsp cumin",
+    "1 tsp paprika",
+    "1/2 tsp oregano",
+    "1/4 cup water",
+    "8 corn tortillas",
+    "1 cup shredded lettuce",
+    "1 cup diced tomatoes",
+    "1/2 cup shredded cheese",
+    "1/4 cup sour cream",
+    "Fresh cilantro",
+    "Lime wedges"
+  ],
+  "steps": {
+    "1": {
+      "title": "Cook the Aromatics",
+      "description": "Heat a large skillet over medium-high heat. Add the ground beef and cook, breaking it up with a wooden spoon. When almost cooked through, add onion and garlic. Cook until onion is softened.",
+      "thumbnail": "https://placehold.co/400x300/dc2626/ffffff?text=Cook+Beef",
+      "duration": 8,
+      "tips": ["Drain excess fat if desired for a leaner taco"]
+    },
+    "2": {
+      "title": "Add the Spices",
+      "description": "Add chili powder, cumin, paprika, and oregano to the beef. Stir well to coat the meat evenly with the spices. Cook for 1 minute until fragrant.",
+      "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Add+Spices",
+      "duration": 2,
+      "tips": ["Toasting the spices in fat releases more flavor"]
+    },
+    "3": {
+      "title": "Simmer",
+      "description": "Add water to the pan and stir. Let it simmer for 5 minutes until the liquid reduces and the meat is well coated with a saucy consistency.",
+      "thumbnail": null,
+      "duration": 5,
+      "tips": ["Add more water if the mixture gets too dry"]
+    },
+    "4": {
+      "title": "Warm the Tortillas",
+      "description": "Heat tortillas directly over a gas flame for 15-20 seconds per side, or in a dry skillet until pliable and slightly charred.",
+      "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Warm+Tortillas",
+      "duration": 3,
+      "tips": ["Keep warmed tortillas wrapped in a towel to stay soft"]
+    },
+    "5": {
+      "title": "Assemble and Serve",
+      "description": "Spoon beef mixture into warmed tortillas. Top with lettuce, tomatoes, cheese, sour cream, and cilantro. Serve with lime wedges on the side.",
+      "thumbnail": "https://placehold.co/400x300/ef4444/ffffff?text=Assemble",
+      "duration": 5,
+      "tips": ["Set up a taco bar and let everyone build their own!"]
+    }
+  },
+  "tools": [
+    "Large skillet",
+    "Wooden spoon",
+    "Cutting board",
+    "Chef's knife"
+  ],
+  "tags": ["mexican", "beef", "tacos", "dinner", "under-30-minutes", "quick", "family-friendly"]
+}

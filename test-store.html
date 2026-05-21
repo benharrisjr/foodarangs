@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test Store</title>
+  <script type="module">
+    import { createPinia } from './node_modules/pinia/dist/pinia.mjs'
+    import { createApp } from './node_modules/vue/dist/vue.esm-browser.js'
+
+    // Test component
+    const TestComponent = {
+      template: `
+        <div style="padding: 20px; font-family: sans-serif;">
+          <h1>Recipe Store Test</h1>
+          <p><strong>Recipe Count:</strong> {{ recipeCount }}</p>
+          <ul>
+            <li v-for="recipe in recipes" :key="recipe.id">
+              {{ recipe.title }} ({{ recipe.difficulty }})
+            </li>
+          </ul>
+        </div>
+      `,
+      setup() {
+        // Inline store for testing
+        const { ref, computed } = window.Vue || { ref: () => ({}), computed: () => ({}) };
+
+        const recipes = ref([
+          { id: '1', title: 'Test Recipe 1', difficulty: 'easy' },
+          { id: '2', title: 'Test Recipe 2', difficulty: 'medium' }
+        ]);
+
+        const recipeCount = computed(() => recipes.value.length);
+
+        return {
+          recipes: recipes.value,
+          recipeCount
+        }
+      }
+    }
+
+    const app = createApp(TestComponent)
+    app.mount('#app')
+  </script>
+</head>
+<body>
+  <div id="app"></div>
+</body>
+</html>

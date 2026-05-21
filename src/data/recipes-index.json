@@ -1,0 +1,94 @@
+[
+  {
+    "id": "beef-tacos",
+    "title": "Authentic Beef Tacos",
+    "description": "Seasoned ground beef with warm spices, served in corn tortillas with fresh toppings. Perfect for a quick weeknight dinner or taco Tuesday!",
+    "heroImage": "https://placehold.co/1200x600/ef4444/ffffff?text=Beef+Tacos",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "mexican",
+      "beef",
+      "tacos",
+      "dinner",
+      "under-30-minutes",
+      "quick",
+      "family-friendly"
+    ]
+  },
+  {
+    "id": "chicken-tikka-masala",
+    "title": "Chicken Tikka Masala",
+    "description": "A creamy, spiced curry with tender chicken pieces in a rich tomato-based sauce. This classic Indian-British fusion dish is comfort food at its finest.",
+    "heroImage": "https://placehold.co/1200x600/f97316/ffffff?text=Chicken+Tikka+Masala",
+    "prepTime": 20,
+    "cookTime": 40,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "chicken",
+      "indian",
+      "curry",
+      "dinner",
+      "30-60-minutes",
+      "comfort-food"
+    ]
+  },
+  {
+    "id": "classic-carbonara",
+    "title": "Classic Carbonara",
+    "description": "An authentic Italian pasta dish with a silky egg and cheese sauce, crispy guanciale, and freshly cracked black pepper. Simple ingredients, extraordinary taste.",
+    "heroImage": "https://placehold.co/1200x600/fbbf24/ffffff?text=Classic+Carbonara",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "difficulty": "medium",
+    "tags": [
+      "pasta",
+      "italian",
+      "dinner",
+      "eggs",
+      "under-30-minutes",
+      "classic"
+    ]
+  },
+  {
+    "id": "fluffy-pancakes",
+    "title": "Fluffy Buttermilk Pancakes",
+    "description": "Light, fluffy, and perfectly golden pancakes made with buttermilk for extra tenderness. A classic breakfast that never disappoints.",
+    "heroImage": "https://placehold.co/1200x600/a78bfa/ffffff?text=Fluffy+Pancakes",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "breakfast",
+      "pancakes",
+      "american",
+      "under-30-minutes",
+      "vegetarian",
+      "classic"
+    ]
+  },
+  {
+    "id": "thai-green-curry",
+    "title": "Thai Green Curry",
+    "description": "A fragrant and vibrant Thai curry with coconut milk, fresh vegetables, and aromatic green curry paste. Perfectly balanced with sweet, salty, and spicy flavors.",
+    "heroImage": "https://placehold.co/1200x600/22c55e/ffffff?text=Thai+Green+Curry",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "difficulty": "easy",
+    "tags": [
+      "thai",
+      "curry",
+      "chicken",
+      "dinner",
+      "30-60-minutes",
+      "spicy",
+      "asian"
+    ]
+  }
+]

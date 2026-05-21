@@ -1,0 +1,68 @@
+{
+  "id": "thai-green-curry",
+  "title": "Thai Green Curry",
+  "description": "A fragrant and vibrant Thai curry with coconut milk, fresh vegetables, and aromatic green curry paste. Perfectly balanced with sweet, salty, and spicy flavors.",
+  "heroImage": "https://placehold.co/1200x600/22c55e/ffffff?text=Thai+Green+Curry",
+  "prepTime": 15,
+  "cookTime": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "ingredients": [
+    "400ml coconut milk",
+    "3 tbsp green curry paste",
+    "500g chicken breast, sliced",
+    "1 cup Thai eggplant, quartered",
+    "1 red bell pepper, sliced",
+    "1 cup bamboo shoots",
+    "2 tbsp fish sauce",
+    "1 tbsp palm sugar or brown sugar",
+    "Thai basil leaves",
+    "2 kaffir lime leaves",
+    "1 red chili, sliced",
+    "Vegetable oil"
+  ],
+  "steps": {
+    "1": {
+      "title": "Bloom the Curry Paste",
+      "description": "Heat oil in a wok over medium-high heat. Add the thick cream from the top of the coconut milk and the curry paste. Fry until fragrant and the oil separates, about 2-3 minutes.",
+      "thumbnail": "https://placehold.co/400x300/16a34a/ffffff?text=Curry+Paste",
+      "duration": 3,
+      "tips": ["Frying the paste releases its aromatics"]
+    },
+    "2": {
+      "title": "Cook the Chicken",
+      "description": "Add the sliced chicken to the wok and stir-fry until the outside is no longer pink, about 3-4 minutes.",
+      "thumbnail": "https://placehold.co/400x300/22c55e/ffffff?text=Cook+Chicken",
+      "duration": 4,
+      "tips": ["Cut chicken into even pieces for uniform cooking"]
+    },
+    "3": {
+      "title": "Add Coconut Milk and Vegetables",
+      "description": "Pour in the remaining coconut milk and bring to a simmer. Add eggplant, bell pepper, bamboo shoots, and kaffir lime leaves. Cook for 10 minutes.",
+      "thumbnail": "https://placehold.co/400x300/4ade80/ffffff?text=Add+Veggies",
+      "duration": 10,
+      "tips": ["Don't boil vigorously or the coconut milk may split"]
+    },
+    "4": {
+      "title": "Season and Finish",
+      "description": "Add fish sauce and palm sugar, adjusting to taste. The curry should be a balance of salty, sweet, and spicy. Remove from heat and stir in Thai basil leaves.",
+      "thumbnail": null,
+      "duration": 3,
+      "tips": ["Taste and adjust - Thai cooking is all about balance"]
+    },
+    "5": {
+      "title": "Serve",
+      "description": "Ladle the curry into bowls and garnish with sliced red chili and extra Thai basil. Serve with steamed jasmine rice.",
+      "thumbnail": "https://placehold.co/400x300/15803d/ffffff?text=Serve+Hot",
+      "duration": 2,
+      "tips": ["Jasmine rice is traditional and absorbs the sauce beautifully"]
+    }
+  },
+  "tools": [
+    "Wok or large pan",
+    "Wooden spatula",
+    "Cutting board",
+    "Chef's knife"
+  ],
+  "tags": ["thai", "curry", "chicken", "dinner", "30-60-minutes", "spicy", "asian"]
+}

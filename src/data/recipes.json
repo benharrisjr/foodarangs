@@ -1,5 +1,69 @@
 [
   {
+    "id": "soy-ginger-glaze-chicken",
+    "title": "Soy Ginger Glaze Chicken",
+    "description": "A simple dish of pan-seared chicken breast, finished in the oven, topped with a sweet and salty ginger glaze.",
+    "heroImage": "https://placehold.co/1200x600/f97316/ffffff?text=Soy+Ginger+Chicken",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 4,
+    "difficulty": "medium",
+    "ingredients": [
+      "4 thinly sliced chicken breasts",
+      "1/2 cup water",
+      "1/4 cup soy sauce",
+      "1/4 cup brown sugar",
+      "Salt and pepper",
+      "1 inch of ginger, minced",
+      "1 tbsp oil"
+    ],
+    "steps": {
+      "1": {
+        "title": "Prep",
+        "description": "Sprinkle the chicken breasts with salt and pepper on both sides. Heat a large skillet over medium-high heat. Preheat your oven to 350F(175C).",
+        "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Step+1",
+        "duration": 5,
+        "tips": []
+      },
+      "2": {
+        "title": "Sear",
+        "description": "Add the oil to the heated pan. Sear chicken breasts for 2-3 minutes on each side until golden brown. Remove from pan and set aside.",
+        "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Step+2",
+        "duration": 7,
+        "tips": ["Don't overcrowd the pan to get proper browning"]
+      },
+      "3": {
+        "title": "Deglaze",
+        "description": "In the same pan, add the minced ginger. Sauté onions until soft and fragrant, about 3 minutes. Deglaze the pan with the water and scrape up all the fond. Place the chicken breasts into the oven and set a timer for 10 minutes.",
+        "thumbnail": null,
+        "duration": 5,
+        "tips": []
+      },
+      "4": {
+        "title": "Reduce",
+        "description": "Add the brown sugar and soy sauce to the pan. Bring the sauce to a boil and reduce for ~10 minutes until it coats the back of a spoon and the bubbles start stacking on top of each other.",
+        "thumbnail": "https://placehold.co/400x300/dc2626/ffffff?text=Step+4",
+        "duration": 12,
+        "tips": ["If it gets too thick, add a splash of water to thin it out"]
+      },
+      "5": {
+        "title": "Finish",
+        "description": "Remove the chicken from the oven and let rest. Serve chicken thinly sliced with sauce drizzled over top. Serve alongside rice and sauteed vegetables.",
+        "thumbnail": "https://placehold.co/400x300/ea580c/ffffff?text=Step+5",
+        "duration": 10,
+        "tips": ["Let it rest for 5 minutes before serving for best flavor", "I use jasmine rice and broccoli steamed and sauteed in garlic and oil."]
+      }
+    },
+    "tools": [
+      "Large skillet or pan",
+      "Oven",
+      "Baking sheet",
+      "Cutting board",
+      "Chef's knife"
+    ],
+    "tags": ["chicken", "ginger", "soy sauce", "dinner", "30-minutes"]
+  },
+  {
     "id": "chicken-tikka-masala",
     "title": "Chicken Tikka Masala",
     "description": "A creamy, spiced curry with tender chicken pieces in a rich tomato-based sauce. This classic Indian-British fusion dish is comfort food at its finest.",

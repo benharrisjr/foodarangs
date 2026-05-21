@@ -1,0 +1,70 @@
+{
+  "id": "chicken-tikka-masala",
+  "title": "Chicken Tikka Masala",
+  "description": "A creamy, spiced curry with tender chicken pieces in a rich tomato-based sauce. This classic Indian-British fusion dish is comfort food at its finest.",
+  "heroImage": "https://placehold.co/1200x600/f97316/ffffff?text=Chicken+Tikka+Masala",
+  "prepTime": 20,
+  "cookTime": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "ingredients": [
+    "500g chicken breast, cubed",
+    "1 cup plain yogurt",
+    "2 tbsp garam masala",
+    "1 tbsp cumin",
+    "1 tbsp paprika",
+    "1 can (400g) crushed tomatoes",
+    "1 cup heavy cream",
+    "1 large onion, diced",
+    "4 cloves garlic, minced",
+    "1 inch ginger, grated",
+    "2 tbsp vegetable oil",
+    "Salt and pepper to taste",
+    "Fresh cilantro for garnish"
+  ],
+  "steps": {
+    "1": {
+      "title": "Marinate the Chicken",
+      "description": "In a large bowl, combine yogurt, half the garam masala, cumin, and paprika. Add the chicken cubes and mix well to coat. Cover and refrigerate for at least 30 minutes, or overnight for best results.",
+      "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Step+1",
+      "duration": 5,
+      "tips": ["Longer marination results in more tender and flavorful chicken", "You can use chicken thighs for extra juiciness"]
+    },
+    "2": {
+      "title": "Cook the Chicken",
+      "description": "Heat 1 tablespoon of oil in a large pan over medium-high heat. Remove chicken from marinade and cook in batches until golden brown on all sides, about 5-7 minutes. Set aside.",
+      "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Step+2",
+      "duration": 7,
+      "tips": ["Don't overcrowd the pan to get proper browning"]
+    },
+    "3": {
+      "title": "Prepare the Sauce Base",
+      "description": "In the same pan, add remaining oil. Sauté onions until soft and golden, about 5 minutes. Add garlic and ginger, cook for another minute until fragrant.",
+      "thumbnail": null,
+      "duration": 6,
+      "tips": []
+    },
+    "4": {
+      "title": "Build the Curry",
+      "description": "Add the remaining garam masala to the pan and stir for 30 seconds. Pour in the crushed tomatoes and simmer for 10 minutes, stirring occasionally.",
+      "thumbnail": "https://placehold.co/400x300/dc2626/ffffff?text=Step+4",
+      "duration": 12,
+      "tips": ["Taste and adjust spices as needed"]
+    },
+    "5": {
+      "title": "Finish and Serve",
+      "description": "Stir in the heavy cream and return the chicken to the pan. Simmer for 10 more minutes until the chicken is cooked through and the sauce has thickened. Garnish with fresh cilantro and serve with basmati rice or naan bread.",
+      "thumbnail": "https://placehold.co/400x300/ea580c/ffffff?text=Step+5",
+      "duration": 10,
+      "tips": ["Let it rest for 5 minutes before serving for best flavor"]
+    }
+  },
+  "tools": [
+    "Large skillet or pan",
+    "Mixing bowl",
+    "Wooden spoon",
+    "Cutting board",
+    "Chef's knife"
+  ],
+  "tags": ["chicken", "indian", "curry", "dinner", "30-60-minutes", "comfort-food"]
+}

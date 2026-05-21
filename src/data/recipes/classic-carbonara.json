@@ -1,0 +1,66 @@
+{
+  "id": "classic-carbonara",
+  "title": "Classic Carbonara",
+  "description": "An authentic Italian pasta dish with a silky egg and cheese sauce, crispy guanciale, and freshly cracked black pepper. Simple ingredients, extraordinary taste.",
+  "heroImage": "https://placehold.co/1200x600/fbbf24/ffffff?text=Classic+Carbonara",
+  "prepTime": 10,
+  "cookTime": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "ingredients": [
+    "400g spaghetti",
+    "200g guanciale or pancetta, cubed",
+    "4 large egg yolks",
+    "2 whole eggs",
+    "100g Pecorino Romano, finely grated",
+    "50g Parmigiano-Reggiano, finely grated",
+    "Freshly ground black pepper",
+    "Salt for pasta water"
+  ],
+  "steps": {
+    "1": {
+      "title": "Prepare the Egg Mixture",
+      "description": "In a bowl, whisk together egg yolks, whole eggs, and most of the grated cheeses (save some for garnish). Season generously with black pepper.",
+      "thumbnail": "https://placehold.co/400x300/fbbf24/ffffff?text=Egg+Mix",
+      "duration": 5,
+      "tips": ["Room temperature eggs mix better", "Use freshly grated cheese for best results"]
+    },
+    "2": {
+      "title": "Cook the Guanciale",
+      "description": "Place guanciale in a cold pan and cook over medium heat until the fat renders and the meat becomes crispy, about 8-10 minutes. Remove from heat.",
+      "thumbnail": "https://placehold.co/400x300/f97316/ffffff?text=Crispy+Meat",
+      "duration": 10,
+      "tips": ["Starting with a cold pan helps render the fat slowly"]
+    },
+    "3": {
+      "title": "Cook the Pasta",
+      "description": "Bring a large pot of heavily salted water to boil. Cook spaghetti until al dente, about 1 minute less than package directions. Reserve 1 cup of pasta water before draining.",
+      "thumbnail": null,
+      "duration": 10,
+      "tips": ["The pasta water is crucial for the sauce"]
+    },
+    "4": {
+      "title": "Combine Everything",
+      "description": "Add hot pasta to the pan with guanciale (off heat). Quickly pour in the egg mixture and toss vigorously, adding pasta water as needed to create a creamy sauce. The residual heat will cook the eggs gently.",
+      "thumbnail": "https://placehold.co/400x300/eab308/ffffff?text=Toss+Pasta",
+      "duration": 3,
+      "tips": ["Keep tossing to prevent scrambled eggs", "Work quickly while pasta is hot"]
+    },
+    "5": {
+      "title": "Serve Immediately",
+      "description": "Plate immediately and top with remaining cheese and a generous amount of freshly cracked black pepper.",
+      "thumbnail": null,
+      "duration": 2,
+      "tips": ["Carbonara waits for no one - serve right away!"]
+    }
+  },
+  "tools": [
+    "Large pot for pasta",
+    "Large skillet",
+    "Mixing bowl",
+    "Whisk",
+    "Tongs",
+    "Cheese grater"
+  ],
+  "tags": ["pasta", "italian", "dinner", "eggs", "under-30-minutes", "classic"]
+}

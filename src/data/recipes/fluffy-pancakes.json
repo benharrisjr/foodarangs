@@ -1,0 +1,69 @@
+{
+  "id": "fluffy-pancakes",
+  "title": "Fluffy Buttermilk Pancakes",
+  "description": "Light, fluffy, and perfectly golden pancakes made with buttermilk for extra tenderness. A classic breakfast that never disappoints.",
+  "heroImage": "https://placehold.co/1200x600/a78bfa/ffffff?text=Fluffy+Pancakes",
+  "prepTime": 10,
+  "cookTime": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "2 tbsp sugar",
+    "2 tsp baking powder",
+    "1 tsp baking soda",
+    "1/2 tsp salt",
+    "2 cups buttermilk",
+    "2 large eggs",
+    "1/4 cup melted butter",
+    "1 tsp vanilla extract",
+    "Butter for cooking",
+    "Maple syrup for serving"
+  ],
+  "steps": {
+    "1": {
+      "title": "Mix Dry Ingredients",
+      "description": "In a large bowl, whisk together flour, sugar, baking powder, baking soda, and salt until well combined.",
+      "thumbnail": null,
+      "duration": 2,
+      "tips": ["Sifting the flour makes even fluffier pancakes"]
+    },
+    "2": {
+      "title": "Mix Wet Ingredients",
+      "description": "In another bowl, whisk together buttermilk, eggs, melted butter, and vanilla extract until smooth.",
+      "thumbnail": "https://placehold.co/400x300/c4b5fd/ffffff?text=Wet+Mix",
+      "duration": 2,
+      "tips": ["Make sure butter has cooled slightly before adding"]
+    },
+    "3": {
+      "title": "Combine the Batter",
+      "description": "Pour the wet ingredients into the dry ingredients and stir gently until just combined. Some lumps are okay - don't overmix!",
+      "thumbnail": "https://placehold.co/400x300/a78bfa/ffffff?text=Batter",
+      "duration": 2,
+      "tips": ["Overmixing develops gluten and makes pancakes tough"]
+    },
+    "4": {
+      "title": "Cook the Pancakes",
+      "description": "Heat a griddle or non-stick pan over medium heat and add a small pat of butter. Pour 1/4 cup of batter per pancake. Cook until bubbles form on the surface and edges look set, then flip and cook for another 1-2 minutes.",
+      "thumbnail": "https://placehold.co/400x300/8b5cf6/ffffff?text=Cook",
+      "duration": 15,
+      "tips": ["Wait for the bubbles before flipping", "First pancake is always a test - adjust heat as needed"]
+    },
+    "5": {
+      "title": "Serve Warm",
+      "description": "Stack pancakes on plates and serve immediately with butter and warm maple syrup. Add fresh berries if desired.",
+      "thumbnail": "https://placehold.co/400x300/7c3aed/ffffff?text=Serve",
+      "duration": 2,
+      "tips": ["Keep cooked pancakes warm in a 200°F oven while making the rest"]
+    }
+  },
+  "tools": [
+    "Large mixing bowl",
+    "Medium mixing bowl",
+    "Whisk",
+    "Griddle or non-stick pan",
+    "Spatula",
+    "Measuring cups"
+  ],
+  "tags": ["breakfast", "pancakes", "american", "under-30-minutes", "vegetarian", "classic"]
+}
